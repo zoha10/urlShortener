@@ -1,1 +1,3 @@
-# urlShort
+# urlShortener
+
+Basic url shortening service.
